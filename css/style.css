@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color: crimson;
+}
+/* Header */
+#header{
+    background-color: red;
+    height: 150px;
+}
+
+/* Main */
+#main{
+    background-color:green;
+    height: 250px;
+}
+
+/* Footer */
+#footer{
+    background-color: yellow;
+    height: 50px;
+}
+#left{
+    background: red;
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+
+#right{
+    background: red;
+    height: 100%;
+    width: 25%;
+    float: right;
+}
+
+#center{
+        background:yellow;
+        height: 99%;
+        width: 49%;
+        float: left;
+        border:2px solid black ;
+}

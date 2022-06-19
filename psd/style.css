@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+section{
+    background: white;
+    
+    padding: 90px;
+    margin: 0px 120px 50px 120px;
+
+}
+
+section p{
+
+    
+    
+}
+.header{
+    text-align: center;
+    font-size: 40px;
+    text-transform:uppercase ;
+    margin: 5px ;
+    padding: 2px;
+}
+.col{
+    height: 10%;
+}
+
+.col p{
+
+    margin: 5px ;
+    padding: 2px;
+}
+.row .col{
+    width: 30.35%;
+    float: left;
+}
+
+.clom p{
+    font-size: 15px;
+}
